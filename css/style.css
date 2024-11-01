@@ -1,0 +1,15 @@
+.soimg_teaser_images {
+	position: relative;
+	top: -10px;
+}
+
+.soimg_teaser_images img {
+	margin: 0px 2px;
+	padding: 2px;
+	background: #ddd;
+}
+
+.soimg_teaser_images div {
+	font-size: smaller;
+	margin-bottom: 3px;
+}

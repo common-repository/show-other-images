@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: show other images\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-23 15:05+0100\n"
+"PO-Revision-Date: 2013-05-23 15:05+0100\n"
+"Last-Translator: Faldrian <Faldrian@jenseitsderfenster.de>\n"
+"Language-Team: Faldrian <faldrian@och-noe.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: de_DE\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../show-other-images.php:79
+msgid "More images in the post"
+msgstr "Weitere Bilder im Beitrag"
+
